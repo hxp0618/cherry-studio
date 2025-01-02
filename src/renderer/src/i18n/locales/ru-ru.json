@@ -518,7 +518,8 @@
     },
     "tray": {
       "quit": "Выйти",
-      "show_window": "Показать окно"
+      "show_window": "Показать окно",
+      "show_mini_window": "Быстрый помощник"
     },
     "words": {
       "knowledgeGraph": "Граф знаний",
