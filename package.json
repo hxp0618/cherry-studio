@@ -73,6 +73,7 @@
     "html2canvas": "^1.4.1",
     "markdown-it": "^14.1.0",
     "officeparser": "^4.1.1",
+    "react-beautiful-dnd": "^13.1.1",
     "tokenx": "^0.4.1",
     "webdav": "4.11.4"
   },
@@ -91,6 +92,7 @@
     "@types/markdown-it": "^14",
     "@types/node": "^18.19.9",
     "@types/react": "^18.2.48",
+    "@types/react-beautiful-dnd": "^13",
     "@types/react-dom": "^18.2.18",
     "@types/react-infinite-scroll-component": "^5.0.0",
     "@types/tinycolor2": "^1",

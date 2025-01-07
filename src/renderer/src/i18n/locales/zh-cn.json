@@ -401,6 +401,8 @@
       "display.sidebar.knowledge.icon": "显示知识图标",
       "display.sidebar.files.icon": "显示文件图标",
       "display.sidebar.title": "侧边栏设置",
+      "display.sidebar.visible": "显示我的侧边栏图标",
+      "display.sidebar.disabled": "隐藏我的侧边栏图标",
       "display.topic.title": "话题设置",
       "display.custom.css": "自定义 CSS",
       "display.custom.css.placeholder": "/* 这里写自定义CSS */",

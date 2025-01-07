@@ -400,6 +400,8 @@
       "display.sidebar.knowledge.icon": "Show Knowledge icon",
       "display.sidebar.files.icon": "Show Files icon",
       "display.sidebar.title": "Sidebar Settings",
+      "display.sidebar.visible": "Show my sidebar icons",
+      "display.sidebar.disabled": "Hide my sidebar icons",
       "display.topic.title": "Topic Settings",
       "display.custom.css": "Custom CSS",
       "display.custom.css.placeholder": "/* Put custom CSS here */",

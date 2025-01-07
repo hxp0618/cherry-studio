@@ -400,6 +400,8 @@
       "display.sidebar.knowledge.icon": "Показывать иконку знаний",
       "display.sidebar.files.icon": "Показывать иконку файлов",
       "display.sidebar.title": "Настройки боковой панели",
+      "display.sidebar.visible": "Показать мои значки на боковой панели",
+      "display.sidebar.disabled": "Скрыть значок на боковой панели",
       "display.topic.title": "Настройки топиков",
       "display.custom.css": "Пользовательский CSS",
       "display.custom.css.placeholder": "/* Здесь введите пользовательский CSS */",

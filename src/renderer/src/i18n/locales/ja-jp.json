@@ -398,6 +398,8 @@
       "display.sidebar.knowledge.icon": "ナレッジのアイコンを表示",
       "display.sidebar.files.icon": "ファイルのアイコンを表示",
       "display.sidebar.title": "サイドバー設定",
+      "display.sidebar.visible": "サイドバーのアイコンを表示する",
+      "display.sidebar.disabled": "サイドバーのアイコンを非表示にする",
       "display.topic.title": "トピック設定",
       "display.custom.css": "カスタムCSS",
       "display.custom.css.placeholder": "/* ここにカスタムCSSを入力 */",
